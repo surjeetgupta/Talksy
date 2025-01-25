@@ -1,3 +1,0 @@
-pass:-  mTKqhNpplthKkO2c
-username:-  surjeetg579
-string :  mongodb+srv://surjeetg579:<db_password>@cluster0.tld0d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
